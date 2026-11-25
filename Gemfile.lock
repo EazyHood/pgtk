@@ -149,7 +149,7 @@ GEM
       unicode-emoji (~> 4.3)
     unicode-emoji (4.3.0)
     waitutil (0.2.1)
-    xcop (0.9.0)
+    xcop (0.11.2)
       differ (~> 0.1.2)
       nokogiri (~> 1.8)
       rainbow (~> 3.0)
@@ -187,7 +187,7 @@ DEPENDENCIES
   simplecov-cobertura (~> 3.0)
   threads (~> 0.4)
   timeout (~> 0.4)
-  xcop (~> 0.9.0)
+  xcop (~> 0.11.2)
   yard (~> 0.9)
 
 BUNDLED WITH
